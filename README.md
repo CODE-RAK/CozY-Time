@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_LIVE_DEMO_URL">
+  <a href="[YOUR_LIVE_DEMO_URL](https://code-rak.github.io/CozY-Time/)">
     <img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_Website-c08b68?style=for-the-badge" alt="Live Demo">
   </a>
 </p>
